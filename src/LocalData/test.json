@@ -1,0 +1,50 @@
+[
+  {
+    "hero": "LightningWizard",
+    "firstName": "Elizabeth",
+    "lastName": "Thompson",
+    "healthPoints": 90,
+    "attackPoints": 16,
+    "specialAttackPoints": 22
+  },
+  {
+    "hero": "Peasant",
+    "firstName": "Martha",
+    "lastName": "Fernandez",
+    "healthPoints": 85,
+    "attackPoints": 10,
+    "specialAttackPoints": 0
+  },
+  {
+    "hero": "Warrior",
+    "firstName": "Ella",
+    "lastName": "Ramirez",
+    "healthPoints": 86,
+    "attackPoints": 6,
+    "specialAttackPoints": 10
+  },
+  {
+    "hero": "Warrior",
+    "firstName": "Ella",
+    "lastName": "Thompson",
+    "healthPoints": 100,
+    "attackPoints": 17,
+    "specialAttackPoints": 29
+  },
+  {
+    "hero": "Peasant",
+    "firstName": "Chloe",
+    "lastName": "Robinson",
+    "healthPoints": 92,
+    "attackPoints": 15,
+    "specialAttackPoints": 0
+  },
+  {
+    "hero": "Warrior",
+    "firstName": "Emma",
+    "lastName": "Kirby",
+    "healthPoints": 95,
+    "attackPoints": 10,
+    "specialAttackPoints": 17
+  }
+]
